@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh934&label=Profile%20views&color=0e75b6&style=flat" alt="ansh934" /> </p>
 
-- 🔭 I’m currently working on [@ML4E](https://github.com/aayank13/ml4e)
-
-- 🌱 I’m currently learning **Machine Learning**
-
 - 📫 How to reach me **soni.ansh934@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
