@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansh</h1>
 <h3 align="center">App Developer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh934&label=Profile%20views&color=0e75b6&style=flat" alt="ansh934" /> </p>
-
 - 📫 How to reach me **soni.ansh934@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
