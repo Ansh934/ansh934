@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh</h1>
-<h3 align="center">App Developer!</h3>
+<h3 align="center">Rust & Flutter Developer!</h3>
 
 - 📫 How to reach me **soni.ansh934@gmail.com**
 
